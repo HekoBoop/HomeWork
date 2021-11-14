@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximclient", "maximclient\maximclient.csproj", "{71053B3A-A0A2-4563-A1B6-C8E33C75DE45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximserver", "maximserver\maximserver.csproj", "{FA06641C-93A1-42D8-9C19-A7D3866B8114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71053B3A-A0A2-4563-A1B6-C8E33C75DE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71053B3A-A0A2-4563-A1B6-C8E33C75DE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71053B3A-A0A2-4563-A1B6-C8E33C75DE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71053B3A-A0A2-4563-A1B6-C8E33C75DE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA06641C-93A1-42D8-9C19-A7D3866B8114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA06641C-93A1-42D8-9C19-A7D3866B8114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA06641C-93A1-42D8-9C19-A7D3866B8114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA06641C-93A1-42D8-9C19-A7D3866B8114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA75F9B-2B79-4E1B-9A9D-C23DD95C3DB6}
+	EndGlobalSection
+EndGlobal
